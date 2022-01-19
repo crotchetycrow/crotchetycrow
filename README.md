@@ -30,7 +30,7 @@
   
   <div>
       <h3 align="center"> 
-        <p> I'm currently working on <a href=https://github.com/crotchetycrow/hangman> this! </a> </p>
+        <p> I'm currently working on <a href=https://github.com/crotchetycrow/Metapp-Frontend> this! </a> </p>
     </h3>
   </div>  
   
