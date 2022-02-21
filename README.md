@@ -30,7 +30,7 @@
   
   <div>
       <h3 align="center"> 
-        <p> I'm currently working on <a href=https://github.com/crotchetycrow/Metapp-Frontend> this! </a> </p>
+        <p> I'm currently working on completing Microsoft Azure Fundamentals (AZ-900)! </a> </p>
     </h3>
   </div>  
   
