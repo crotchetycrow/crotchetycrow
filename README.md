@@ -18,6 +18,16 @@
    </div>
   
   <div>
+    <h3 align="center"> The tech I'm learning: </h3>
+    <p align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      
+    </p>
+  </div>
+  
+  <div>
     <h3 align="center"> I make use of these tools: </h3>
     <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jasmine/jasmine-plain-wordmark.svg" height="40" width="40">
@@ -30,7 +40,7 @@
   
   <div>
       <h3 align="center"> 
-        <p> I'm currently working on completing Microsoft Azure Fundamentals (AZ-900)! </a> </p>
+        <p> I'm currently working on completing Microsoft Azure Fundamentals (AZ-900)! </p>
     </h3>
   </div>  
   
