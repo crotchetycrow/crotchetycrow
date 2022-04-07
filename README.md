@@ -39,7 +39,7 @@
   
   <div>
       <h3 align="center"> 
-        <p> I'm currently working on completing Microsoft Azure Fundamentals (AZ-900)! </p>
+        <p> Recently passed my AZ-900! </p>
     </h3>
   </div>  
   
