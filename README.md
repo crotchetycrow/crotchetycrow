@@ -2,7 +2,7 @@
 <body>
   <div>
     <h2 align="center"> Hey! My name is Jack &#128512; </h2>
-    <h4 align="center"> I am a Trainee DevOps Consultant at Sparta Gloabl with a keen interest in automation architecture and cloud computing! </h4>
+    <h4 align="center"> I am a Junior DevOps Consultant at Sparta Gloabl with a keen interest in automation architecture and cloud computing! </h4>
   </div>
   
   <div>
